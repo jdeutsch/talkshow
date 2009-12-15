@@ -1,7 +1,0 @@
-ROOT="/."
-MKNETREL="/bin/talkshow"
-NETREL="/bin/talkshow/cygwin"
-mirror="http://gnu.kookel.org/ftp/cygwin"
-cache="/./var/cache/setup"
-setup_ini="/./etc/setup/setup.ini"
-distname="curr"
